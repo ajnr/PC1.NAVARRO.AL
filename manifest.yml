@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PC1 NAVARRO AL
+  host: PC1-NAVARRO-AL
+  disk_quota: 1024M
